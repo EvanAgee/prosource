@@ -1,0 +1,11 @@
+RewriteEngine on
+Options FollowSymlinks
+#add www. to the URL
+rewritecond %{http_host} ^prosourcefirst.com [nc]
+rewriterule ^(.*)$ http://www.prosourcefirst.com/$1 [r=301,nc]
+
+#remove index.php and index.html from the URL
+RewriteCond %{THE_REQUEST} ^GET\ (/.*|)/index\.(php|html)\ HTTP
+RewriteRule (.*)index\.(php|html)$ /$1 [R=301,L]
+
+Redirect /slip-proofing http://www.prosourcefirst.com/index.php
