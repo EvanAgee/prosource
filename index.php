@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Wayne County Richmond Indiana Construction and Handyman Services ~ ProSource Construction</title>
+<title>Heroku - Wayne County Richmond Indiana Construction and Handyman Services ~ ProSource Construction</title>
 <!-- InstanceEndEditable -->
 <meta name="keywords" content="construction,concrete,windows,doors,painting,drywall,Novabrik,flooring,trim,design planning,siding,garages,pole barn,patio covers,handyman services, handy man, Richmond, Eaton, Centerville, Wayne County, New Paris" />
 <meta name="description" content="Wayne County Richmond Indiana construction, painting, drywall, flooring, remodelling, siding and handyman services - ProSource Construction" />
@@ -29,9 +29,9 @@
 <div id="wrapper">
   <h1 id="header" class="swap"><span>Wayne County Richmond Indiana Construction, painting, drywall, flooring, remodelling, siding and handyman services - ProSource Construction</span></h1>
   <div id="nav"><!-- #BeginLibraryItem "/Library/nav.lbi" --><a href="index.php" id="home_link">Home</a><a href="about/index.php" id="about_us_link">About Us</a><a href="construction/index.php" id="construction_link">Construction Services</a><a href="testimonials/index.php" id="testimonials_link">Testimonials</a><a href="contact/index.php" id="contact_link">Contact Us</a><!-- #EndLibraryItem --></div>
-  
-	
-	
+
+
+
 	<h2 id="pro_source_header" class="swap"><span>ProSource Construction</span></h2>
   <div id="content">
 	<div class="padding">
